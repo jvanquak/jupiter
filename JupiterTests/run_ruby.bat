@@ -1,1 +1,1 @@
-"C:\RailsInstaller\Ruby2.3.0\bin\ruby.exe" login.rb
+"C:\RailsInstaller\Ruby2.3.0\bin\ruby.exe" %WORKSPACE%\JupiterTests\login.rb
